@@ -1,2 +1,2 @@
 # projeto-site
- Projeto de um site criado durante o cursode Gite GitHub
+ Projeto de um site criado durante o curso de Gite GitHub
